@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdbe\\Documents\\GitHub\\RelationalStructures\\OneToOne\\OneToOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5FF3F8-BFE0-45AF-8211-11C8ED3486E7}|One_To_One_Relationship\\One_To_One_Relationship.csproj|c:\\users\\erdbe\\documents\\github\\relationalstructures\\onetoone\\onetoone\\one_to_one_relationship\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5FF3F8-BFE0-45AF-8211-11C8ED3486E7}|One_To_One_Relationship\\One_To_One_Relationship.csproj|solutionrelative:one_to_one_relationship\\onetomany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5FF3F8-BFE0-45AF-8211-11C8ED3486E7}|One_To_One_Relationship\\One_To_One_Relationship.csproj|c:\\users\\erdbe\\documents\\github\\relationalstructures\\onetoone\\onetoone\\one_to_one_relationship\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5FF3F8-BFE0-45AF-8211-11C8ED3486E7}|One_To_One_Relationship\\One_To_One_Relationship.csproj|solutionrelative:one_to_one_relationship\\onetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OneToMany.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\RelationalStructures\\OneToOne\\OneToOne\\One_To_One_Relationship\\OneToMany.cs",
+              "RelativeDocumentMoniker": "One_To_One_Relationship\\OneToMany.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\RelationalStructures\\OneToOne\\OneToOne\\One_To_One_Relationship\\OneToMany.cs",
+              "RelativeToolTip": "One_To_One_Relationship\\OneToMany.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:09.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OneToOne.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Documents\\GitHub\\RelationalStructures\\OneToOne\\OneToOne\\One_To_One_Relationship\\OneToOne.cs",
+              "RelativeDocumentMoniker": "One_To_One_Relationship\\OneToOne.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Documents\\GitHub\\RelationalStructures\\OneToOne\\OneToOne\\One_To_One_Relationship\\OneToOne.cs",
+              "RelativeToolTip": "One_To_One_Relationship\\OneToOne.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:50:59.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
