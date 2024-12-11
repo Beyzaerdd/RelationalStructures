@@ -112,7 +112,7 @@ namespace ManyToMany
 
             modelBuilder.Entity<BookWriter>()
                 .HasOne(bw => bw.Writer)
-                .HasMany(b => b.Books)
+                .WithMany(b => b.Books)
                 .HasForeignKey(bw => bw.WriterId);
                 }
 
